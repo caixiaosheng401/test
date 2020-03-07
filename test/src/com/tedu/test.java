@@ -1,4 +1,4 @@
-package com.tedu;
+	package com.tedu;
 
 public class test {
 
